@@ -9,3 +9,7 @@ This is a repository containing a useful stuff (e.g. websites, projects, article
 ## Repositories
 
 * https://github.com/MaximAbramchuck/awesome-interview-questions [Questions for many different programming languages and frameworks]
+
+## Tools
+
+* https://www.iloveimg.com/ [Free website containing a lot of useful tools e.g. many images processing, converting, watermarkingm, etc. ]
