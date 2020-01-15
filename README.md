@@ -14,3 +14,4 @@ This is a repository containing a useful stuff (e.g. websites, projects, article
 
 * https://www.iloveimg.com/ [Website containing a lot of useful tools e.g. many images processing, converting, watermarking, etc. ]
 * https://sqldbm.com/Home/ [SQL Database Modeler for various database types]
+* https://app.any.run/ [Interactive Online Malware Analysis Sandbox. Do you have any suspicious link? Test it there]
