@@ -9,6 +9,7 @@ This is a repository containing a useful stuff (e.g. websites, projects, article
 ## Repositories
 
 * https://github.com/MaximAbramchuck/awesome-interview-questions [Questions for many different programming languages and frameworks]
+* https://github.com/tabler/tabler-icons [A set of over 300 free high-quality SVG icons]
 
 ## Tools
 
