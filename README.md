@@ -3,8 +3,8 @@ This is a repository containing a useful stuff (e.g. websites, projects, article
 
 ## Websites
 * https://thispersondoesnotexist.com/ [Random face generator]
-
 * https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax [Github writing and formatting syntax]
+* https://www.howtodeal.dev/ [How to Deal with Difficult People on Software Projects]
 
 ## Repositories
 
