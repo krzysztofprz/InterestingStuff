@@ -20,3 +20,7 @@ This is a repository containing a useful stuff (e.g. websites, projects, article
 * https://sqldbm.com/Home/ [SQL Database Modeler for various database types]
 * https://app.any.run/ [Interactive Online Malware Analysis Sandbox. Do you have any suspicious link? Test it there]
 * https://www.hangfire.io/ [Background processing library]
+
+## .NET
+
+* https://www.albahari.com/threading/ [Extremely good handbook regarding threading and synchronization]
