@@ -10,6 +10,7 @@ This is a repository containing a useful stuff (e.g. websites, projects, article
 * https://abp.io/ [Complete infrastructure to create modern web applications by following the software development best practices and conventions]
 * https://rtyley.github.io/bfg-repo-cleaner/ [Repo cleaner from passwords, credentials, private data & other]
 * https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/ [SQL injection vulnerabilities cheat-sheet]
+* https://challengerocket.com/ [Job board and recruitment challenges. Really interesting one]
 
 ## Repositories
 
