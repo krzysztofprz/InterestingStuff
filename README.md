@@ -28,7 +28,8 @@ This is a repository containing a useful stuff (e.g. websites, projects, article
 * https://app.any.run/ [Interactive Online Malware Analysis Sandbox. Do you have any suspicious link? Test it there]
 * https://www.hangfire.io/ [Background processing library]
 * https://www.browserstack.com/ [Cross-browser and devices testing platform]
-* https://www.quartz-scheduler.net/ [Job scheduling system that can be used background processing]
+* https://www.quartz-scheduler.net/ [Job scheduling system that can be used for background processing]
+* https://mermaid.js.org/ [Tool for creating diagrams and visualizations in markdown files]
 
 ## .NET
 
