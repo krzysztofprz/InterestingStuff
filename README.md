@@ -31,6 +31,7 @@ This is a repository containing a useful stuff (e.g. websites, projects, article
 * https://www.browserstack.com/ [Cross-browser and devices testing platform]
 * https://www.quartz-scheduler.net/ [Job scheduling system that can be used for background processing]
 * https://mermaid.js.org/ [Tool for creating diagrams and visualizations in markdown files]
+* http://specification.ardalis.com/ [Specification pattern library encapsulating query logic in its own class, which helps classes follow the Single Responsibility Principle (SRP) and promotes reuse of common queries]
 
 ## .NET
 
