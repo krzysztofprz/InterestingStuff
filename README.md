@@ -22,6 +22,7 @@ This is a repository containing a useful stuff (e.g. websites, projects, article
 
 * https://github.com/MaximAbramchuck/awesome-interview-questions [Questions for many different programming languages and frameworks]
 * https://github.com/tabler/tabler-icons [A set of over 300 free high-quality SVG icons]
+* https://github.com/quozd/awesome-dotnet [Repository collecting interesting & useful libraries for the .NET ecosystem across different IT fields]
 
 ## Tools
 
